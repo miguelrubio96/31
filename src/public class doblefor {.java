@@ -5,7 +5,7 @@ public class doblefor {
 		int columnas = 10;
 		int filas = 4;
 		int c=0;
-		for (int z = 0; z < 3; z++) {
+		for (int z = 0; z < 2; z++) {
 			while (z == 0 || z == 1) {
 				for (int k = 0; k < 3; k++) {
 					for (int i = 0; i < filas; i++) {
